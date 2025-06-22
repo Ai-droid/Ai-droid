@@ -1,5 +1,16 @@
 # About Me:
-Hi there! I'm Abhinav Sharma, a passionate Backend Developer with a strong foundation in Python, Java, and backend frameworks like Django, Flask, and FastAPI. I specialize in building scalable, high-performance systems and solving complex algorithmic challenges. With hands-on experience in AWS cloud technologies, DevOps tools (Terraform, Jenkins, Docker), and Data Structures & Algorithms (DSA), I focus on creating efficient backend solutions.<br><br>I am always eager to explore new tools and technologies, don't hesitate to reach out if you'd like to collaborate and lets build some crazy 💩!
+Hi there! 👋 I'm Abhinav Sharma, an AI/ML Engineer passionate about building intelligent systems that solve real-world problems. Currently crafting scalable AI solutions at Amazon, where I work with LLMs, custom ML models, and cloud-native architectures.
+
+🔭 I specialize in:
+
+    Building AI/ML pipelines and LLM-powered applications
+    Python development with FastAPI, Django, and Flask
+    AWS cloud architecture and MLOps
+    Distributed systems and high-performance backends
+
+When I'm not coding, I'm probably exploring the latest in AI research or tinkering with new tools and technologies. Always excited to collaborate on innovative projects - let's build something amazing together! 🚀
+
+Feel free to reach out if you want to chat about AI, cloud architecture, or just want to geek out about tech! 💡
 
 
 ## 🌐 Socials:
